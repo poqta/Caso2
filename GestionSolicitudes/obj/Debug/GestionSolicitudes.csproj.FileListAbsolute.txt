@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\bin\Debug\GestionSolicitudes.exe.config
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\bin\Debug\GestionSolicitudes.exe
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\bin\Debug\GestionSolicitudes.pdb
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\obj\Debug\GestionSolicitudes.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\obj\Debug\GestionSolicitudes.Form1.resources
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\obj\Debug\GestionSolicitudes.Properties.Resources.resources
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\obj\Debug\GestionSolicitudes.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\obj\Debug\GestionSolicitudes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\obj\Debug\GestionSolicitudes.exe
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\obj\Debug\GestionSolicitudes.pdb
+C:\Users\HP\source\repos\GestionSolicitudes\GestionSolicitudes\obj\Debug\GestionSolicitudes.exe.config
